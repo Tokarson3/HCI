@@ -14,9 +14,9 @@
 
 **Key Features:** - (User-Defined Skill) - (Timer)  - (Time logs with comments) 
 
-**Unique Selling Points (USPs):** - It's a very simple design with no unnecesarry additions. It just "does the job".
+**Unique Selling Points (USPs):** - It's a very simple design with no unnecesarry additions. It just does the job.
 
-**Limitations/Weaknesses:** - Because it's very broad and only time based it probably isn't the best way to track every skill. No calender or graphs or any other more advanced way to display the progress over time. ADs are annoying
+**Limitations/Weaknesses:** - Because it's very broad and only time based it probably isn't the best way to track every skill. No calender or graphs or any other more advanced way to display the progress over time. There is no way to delete time if added by accident. ADs are annoying
 
 ---
 
