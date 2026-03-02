@@ -14,7 +14,7 @@ Work carried out by:
 
 ---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
- > 	This stage corresponds to week 1. Describe the overall rationale that leads to choosing the project idea
+ > 	This stage corresponds to week 1. Describe the overall rationale that leads to choosing the project ideaeaea
 
 <!-- For this stage you will need to read this:-->
 
