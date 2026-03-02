@@ -3,6 +3,20 @@
 > 	The questions included in this file are just possibilities. The questions you do should be adapted to your case, where needed.
 
 --- 
+## Sample Questions
+
+**Have you ever used a skill tracking app?**
+
+**What would you consider most important in an app that tracks your skill level?**
+
+**How would you like to see the progress?**
+
+**What additional features would you like?**
+
+
+
+
+
 ## Task Overview 
 
  **What task is the user trying to accomplish?** 
