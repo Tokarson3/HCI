@@ -1,20 +1,29 @@
 # ![Persona Name](personas/persona1.jpeg)  
-**Name:** [Persona Name]  
-**Age:** [Persona Age]  
-**Occupation:** [Job Title or Role]  
-**Location:** [City, Country]  
+**Name:** Andrew Neiman
+**Age:** 23 
+**Occupation:** Student
+**Location:** New York, USA
 
 ## Background  
-[Describe the persona's background, including their education, work experience, and any relevant personal history. This should be written as a short, engaging narrative that helps to contextualize the persona.]  
+Student of business. He is an ammature drummer, and he wants to get better. He is dedicated and will use the app daily.
 
 ## Daily Life  
-[Describe a typical day in their life. What do they do from morning to evening? How do they interact with technology, products, or services? What challenges do they face?]  
+[Describe a typical day in their life. What do they do from morning to evening? How do they interact with technology, products, or services? What challenges do they face?]
+He practices a lot. Most of the training is playing along to songs. For the rudiment training he has to use a metronome and pen & paper to track his progress
 
 ## Goals & Needs  
 [Explain what the persona wants to achieve in their personal or professional life. What are their aspirations? What problems are they trying to solve?]  
+Main goal is to improve his drums playing as much as possible, while tracking progress.
+Rudiments and stick control is one of the most important factors in overall drum level.
+He doesn't have a practice plan
 
 ## Pain Points & Challenges  
 [Describe the main frustrations, obstacles, or inefficiencies they encounter related to the product or service you are designing for.]  
+--Tracking progress takes extra time
+-Nie ma jednego miejsca
+
+
+
 
 ## Motivation  
 *"Why do they engage with this product or service?"*  
