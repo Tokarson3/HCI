@@ -5,13 +5,13 @@
 --- 
 ## Sample Questions
 
-**Have you ever used a skill tracking app?**
+*Have you ever used a skill tracking app?*
 
-**What would you consider most important in an app that tracks your skill level?**
+*What would you consider most important in an app that tracks your skill level?*
 
-**How would you like to see the progress?**
+*How would you like to see the progress?*
 
-**What additional features would you like?**
+*What additional features would you like?*
 
 
 
