@@ -1,4 +1,4 @@
-# ![Persona Name](personas/persona1.jpeg)  
+# ![Andrew Neiman](personas/Untitled.png)  
 **Name:** Andrew Neiman
 **Age:** 23 
 **Occupation:** Student
