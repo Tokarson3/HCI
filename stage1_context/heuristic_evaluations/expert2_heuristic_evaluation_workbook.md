@@ -36,6 +36,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
+|When the user adds time, there is no way to delete it| 3 |
 
 
 # 4 Consistency and Standards
