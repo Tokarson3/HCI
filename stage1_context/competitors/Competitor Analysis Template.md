@@ -21,7 +21,7 @@
 ---
 
 ## Screenshots
-<img width="590/2" height="1278/2" alt="IMG_3549" src="https://github.com/user-attachments/assets/35ad322c-99f4-4f7e-9d72-34e1293291ad" />
+<img width="590" height="1278" alt="IMG_3549" src="https://github.com/user-attachments/assets/35ad322c-99f4-4f7e-9d72-34e1293291ad" />
 <img width="590" height="1278" alt="IMG_3550" src="https://github.com/user-attachments/assets/46edb927-0840-49d3-8896-ebce731c2525" />
 <img width="590" height="1278" alt="IMG_3551" src="https://github.com/user-attachments/assets/4c0a0863-94ac-45e0-9bf0-7f8d6f26f717" />
 <img width="590" height="1278" alt="IMG_3552" src="https://github.com/user-attachments/assets/5b4bbf8f-d66b-451f-8ed1-f0da32191821" />
