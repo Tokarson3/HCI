@@ -16,11 +16,12 @@ Rudiments and stick control is one of the most important factors in overall drum
 He doesn't have a practice plan
 
 ## Pain Points & Challenges  
-[Describe the main frustrations, obstacles, or inefficiencies they encounter related to the product or service you are designing for.]  
 Tracking progress takes extra time, it is not all in one place
 
 
 
 ## Motivation  
 *"Why do they engage with this product or service?"*  
-[Summarize their core motivation in a compelling way. This could be a short paragraph or even a strong, direct quote that captures their drive.]  
+It makes progressing with drums easier, since you have everything in one place. For a student of business (not a professional drummer) time is very important so practise needs to be efficient and well thought through.
+
+Our app will help with all of that.
