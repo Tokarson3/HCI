@@ -11,7 +11,6 @@ Track progress of a musical instrument
 **What are the main pain points or difficulties they experience?** 
 - Hard to track progress, which is essential to know which excersises improve our playing
 - Not knowing enough excercises, not having a plan 
-- [Challenge 3] 
 
 
 ---- 
