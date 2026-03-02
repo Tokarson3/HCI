@@ -29,19 +29,3 @@ Track progress of a musical instrument
 **What features do they wish these tools had?** 
 - Single place to have a list of excercises, metronome and logs of the excercises
 
---- 
-## Expectations for a Novel Approach 
-
-**What would an ideal solution look like for them?** 
-- [Key expectations] 
-
-**What concerns or hesitations do they have about new approaches?** 
-- [Concern 1] 
-- [Concern 2] 
-
-**How do they measure success for completing the task efficiently?** 
-- [Efficiency metric or criteria] 
-
---- 
-## Additional Observations 
-[Free space for any other relevant notes, behaviors, or comments]
