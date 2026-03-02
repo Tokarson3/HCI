@@ -1,4 +1,4 @@
-# ![Andrew Neiman](personas/Untitled.png)  
+# ![Andrew Neiman](Untitled.png)  
 **Name:** Andrew Neiman
 **Age:** 23 
 **Occupation:** Student
