@@ -8,8 +8,8 @@ Work carried out by:
 
 **Title of the project**: [Title goes here]
 **Team:**
-- Student 1: [Name and Number] 
-- Student 2; [Name and Number]
+- Student 1: Piotr Kryska 
+- Student 2; Mikolaj Tokarczuk
 - Student 3: [Name and Number]
 
 ---
