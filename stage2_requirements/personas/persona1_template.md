@@ -19,9 +19,7 @@ He doesn't have a practice plan
 
 ## Pain Points & Challenges  
 [Describe the main frustrations, obstacles, or inefficiencies they encounter related to the product or service you are designing for.]  
---Tracking progress takes extra time
--Nie ma jednego miejsca
-
+Tracking progress takes extra time, it is not all in one place
 
 
 
