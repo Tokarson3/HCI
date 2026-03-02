@@ -10,7 +10,7 @@ Track progress of a musical instrument
 
 **What are the main pain points or difficulties they experience?** 
 - Hard to track progress, which is essential to know which excersises improve our playing
-- [Challenge 2] 
+- Not knowing enough excercises, not having a plan 
 - [Challenge 3] 
 
 
@@ -19,14 +19,16 @@ Track progress of a musical instrument
 **What tools or methods does the user currently rely on?** 
 - Excel
 - Manual writing on paper
+- Metronome
 
 **Are there any frustrations or limitations with these tools?** 
 - They take a lot of time to write new entries
+- Can't do everything in one place
 
 
 **What features do they wish these tools had?** 
-- [Feature 1] 
-- [Feature 2] 
+- Single place to have a list of excercises, metronome and logs of the excercises
+
 --- 
 ## Expectations for a Novel Approach 
 
