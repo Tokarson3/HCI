@@ -2,36 +2,27 @@
 
 > 	The questions included in this file are just possibilities. The questions you do should be adapted to your case, where needed.
 
-## Interview Details 
-- **Date:** [YYYY-MM-DD] 
-- **Interviewer:** [Your Name] 
-- **Participant:** [Optional: Anonymous or Role] 
-- **Context:** [Where and how the interview was conducted] 
-
 --- 
 ## Task Overview 
 
  **What task is the user trying to accomplish?** 
-[Describe the task in the user’s words] 
+Track progress of a musical instrument
 
 **What are the main pain points or difficulties they experience?** 
-- [Challenge 1] 
+- Hard to track progress, which is essential to know which excersises improve our playing
 - [Challenge 2] 
 - [Challenge 3] 
 
-**Are there any workarounds or strategies they currently use?** 
-- [List of workarounds] 
 
 ---- 
 ## Tools & Environment 
 **What tools or methods does the user currently rely on?** 
-- [Tool 1] 
-- [Tool 2] 
-- [Any manual processes] 
+- Excel
+- Manual writing on paper
 
 **Are there any frustrations or limitations with these tools?** 
-- [Limitation 1] 
-- [Limitation 2] 
+- They take a lot of time to write new entries
+
 
 **What features do they wish these tools had?** 
 - [Feature 1] 
