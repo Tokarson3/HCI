@@ -27,6 +27,19 @@ Work carried out by:
 # [C. Stage 2 - Requirement Analysis](stage2_requirements/c_stage_2_requirement_definition.md)
 >	This stage corresponds to weeks 3 and 4, running in parallel with Stage 1, in week 3. After having the context, the obtained information is gathered in Personas and scenarios are built describing the vision for the new solution. Finally, requirements are defined.
 <!-- Based on the context definition and the devised scenarios, specify the requirements -->
+Mock Interview
+Interviewer: Have you ever used a skill tracking app?
+Andrew: Not for drums. I currently rely on Excel, writing manually on paper, and using a standalone metronome.
+
+Interviewer: What would you consider most important in an app that tracks your skill level?
+Andrew: Efficiency. I am a business student, so my time is limited. Having everything in one place is crucial so I don't waste time setting up.
+
+Interviewer: How would you like to see the progress?
+Andrew: I need a clear way to see which exercises are actually improving my playing. Visual progress tracking all in one centralized location would be ideal.
+
+Interviewer: What additional features would you like?
+Andrew: A structured practice plan and a larger library of exercises. Right now, I struggle because I don't know enough exercises to keep improving.
+
 
 
 ---
