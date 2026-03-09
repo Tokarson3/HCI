@@ -13,25 +13,30 @@
 
 ## Main Tasks Performed by the User
 
-1. **Browse or Search Rudiments**  
-   The user explores the rudiment library to find a specific rudiment or discover new ones to practice.
+1. **Open the Practice App**  
+   The user launches the drum rudiment practice application to begin a session.
 
-2. **Create or Select a Practice Plan**  
-   The user either:
-   - Adds selected rudiments to a custom practice plan, or  
-   - Chooses a predefined training plan for the session.
+2. **Select or Create a Practice Plan**  
+   The user prepares the session by either creating a custom plan or selecting an existing one.
+   - Browse the rudiment library. (User can also create custom rudiment)
+   - Add rudiments to the session  
+   - Or select a predefined practice plan
 
-3. **Start Practice Session**  
-   The user begins a session and practices each rudiment using the built-in metronome to maintain tempo.
+3. **Practice Rudiments with the Metronome**  
+   The user practices each rudiment using the built-in metronome to maintain consistent timing.
+   - Start the metronome  
+   - Play the rudiment  
+   - Increase tempo if comfortable
 
-4. **Record Performance Data**  
-   After practicing a rudiment, the user logs their performance in the app (e.g., achieved BPM).
+4. **Record Practice Results**  
+   After practicing a rudiment, the user logs their performance in the app.
+   - Enter achieved BPM  
+   - Optionally log duration, number of repetitions or notes
 
-5. **Track Progress During the Session**  
-   The user views real-time feedback or session progress as they move through the planned rudiments.
-
-6. **Save the Practice Session**  
-   At the end of the session, the user saves the session so the data can be used for progress tracking and future recommendations.
+5. **Save the Practice Session**  
+   At the end of the session, the user stores the session data for future reference.
+   - Review session summary  
+   - Save progress for tracking improvement over time
 
 <img width="641" height="361" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/de1629a2-31bc-48ac-bdf0-e7c5ce419780" />
 
