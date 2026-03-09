@@ -33,6 +33,7 @@
 6. **Save the Practice Session**  
    At the end of the session, the user saves the session so the data can be used for progress tracking and future recommendations.
 
+<img width="641" height="361" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/de1629a2-31bc-48ac-bdf0-e7c5ce419780" />
 
 
 
