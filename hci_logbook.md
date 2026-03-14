@@ -20,8 +20,18 @@ Work carried out by:
 
 
 # [B. Stage 1 - Context Definition](stage1_context/b_stage_1_context_definition.md)
-> 	This stage spans weeks 2 and 3. It entails identifying competitors, analyse the most representative using heuristic evaluation and cognitive walkthrough, and understand how users currently approach the problem and their expectations and needs.
 
+### Week 2: Competitive Analysis (The Hunt for Weakness)
+* **Activity:** Identified and tested existing "skill trackers" like *10,000 Hours: Skill Tracker* and generic metronome apps.
+* **Observations:** * General trackers are too broad (time-only, no performance metrics like BPM).
+    * Music-specific apps are often just tools (metronomes) without any "memory" or progress visualization.
+* **Action:** Conducted a Heuristic Evaluation on *10,000 Hours*. Found major violations in **User Control** (can't delete logs) and **Flexibility** (annoying ads and no music-specific data fields).
+
+### Week 3: User Research & Interviews
+* **Activity:** Created the "Andrew Neiman" persona based on common frustrations in the drumming community.
+* **Interview Insights:** Conducted an informal interview with a student drummer. 
+* **Key Finding:** The user isn't lazy; the *tools* are lazy. If a user has to open three different apps to start a 5-minute practice session, they simply won't log the data.
+* **Requirement Shift:** We realized the app *must* have an integrated metronome. Without it, the "logging" feature becomes another chore.
 
  
 # [C. Stage 2 - Requirement Analysis](stage2_requirements/c_stage_2_requirement_definition.md)
