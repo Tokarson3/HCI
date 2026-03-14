@@ -49,3 +49,25 @@ To evaluate the user experience for our persona **Andrew**, we simulated a stand
 - **Friction in Use:** Reviews mention that having to "close three things" before hearing a click-track is a major deterrent for quick practice sessions.
 - **Subscription Fatigue:** Negative feedback regarding the locking of basic features like "unlimited presets" behind a subscription model.
 - **Unfit for Tracking:** Users highlight that while it is a great metronome, it is useless for seeing long-term improvement in skill level or speed.
+
+
+## Heuristic Evaluation: Soundbrenner (The Metronome)
+**Evaluation Scale: 0 to 4**
+* **0**: No usability problem.
+* **1**: Cosmetic problem only (low priority).
+* **2**: Minor usability problem (medium priority).
+* **3**: Major usability problem (high priority).
+* **4**: Usability catastrophe (imperative to fix).
+
+| Heuristic | Score | Analysis |
+| :--- | :---: | :--- |
+| **#1: Visibility of System Status** | **0** | The BPM is clearly displayed in a large, central font. The screen pulses visually in sync with the audio, giving immediate feedback on the state of the metronome. |
+| **#2: Match between System & Real World** | **0** | Uses a "dial" interface that mimics high-end physical metronomes. Musical terms like "subdivisions" and "accents" are used correctly in a professional context. |
+| **#3: User Control & Freedom** | **3** | **Major Issue:** The app frequently interrupts the user with full-screen hardware ads or subscription prompts upon launch. These are difficult to dismiss and trap the user in a "marketing funnel" when they just want to practice. |
+| **#4: Consistency & Standards** | **1** | Generally follows mobile OS standards (bottom nav, toggles). However, some "Shop" buttons look like functional tool buttons, leading to accidental clicks. |
+| **#5: Error Prevention** | **1** | There is no safeguard against accidental large jumps in BPM (e.g., a swipe that moves the dial from 60 to 200), which can be jarring for a musician. |
+| **#6: Recognition rather than Recall** | **4** | **Catastrophe for Andrew:** The app does not display "Last Session BPM" or any historical progress data. The user must manually recall and re-enter their previous speeds for specific exercises every single time. |
+| **#7: Flexibility & Efficiency of Use** | **3** | **Major Issue:** The navigation is cluttered with non-essential tabs (Shop, Discover). There are no shortcuts to jump straight into a "Paradiddle" routine or a saved practice goal. |
+| **#8: Aesthetic & Minimalist Design** | **2** | While the metronome interface itself is sleek, the surrounding ecosystem is cluttered with promotional banners and hardware sales content that distracts from the core task. |
+| **#9: Help users with errors** | **0** | Bluetooth connection errors for hardware sync provide clear, actionable troubleshooting steps. |
+| **#10: Help & Documentation** | **1** | Extensive help is available, but it is heavily skewed toward hardware setup and sales rather than optimizing the software for a practice workflow. |
