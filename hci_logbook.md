@@ -10,7 +10,7 @@ Work carried out by:
 **Team:**
 - Student 1: Piotr Kryska 
 - Student 2; Mikolaj Tokarczuk
-- Student 3: [Name and Number]
+- Student 3: Tomás Alves
 
 ---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
