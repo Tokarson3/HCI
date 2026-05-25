@@ -54,11 +54,18 @@ Andrew: A structured practice plan and a larger library of exercises. Right now,
 
 ---
 # [P1 - First Assignment Presentation](presentation_1/p1_first_assignment_presentation.md)
->	Presentations will take place in weeks 5 and 6
 ---
 
 # [D. Stage 3 - Low-Fidelity Prototype and Evaluation](stage3_low_fidelity/d_stage_3_low-fidelity_prototype_and_evaluation.md)
->	The low-fidelity prototype stage spans weeks 7 and 8. Based on the scenarios and requirements a low fidelity prototype is designed and evaluated adopting a formative evaluation approach
+
+<img width="4284" height="5712" alt="IMG_4045" src="https://github.com/user-attachments/assets/32d2c8a7-482e-43d4-a4f8-31f0beeb5bb7" />
+<img width="4284" height="5712" alt="IMG_4044" src="https://github.com/user-attachments/assets/db6d20c3-66a3-482d-b6f0-b41d6a65ab11" />
+<img width="4284" height="5712" alt="IMG_4043" src="https://github.com/user-attachments/assets/33045785-9c2f-416a-9d6d-8287f20b4331" />
+<img width="4284" height="5712" alt="IMG_4042" src="https://github.com/user-attachments/assets/a625ae9b-b0ce-4868-9831-2099fb8d41e5" />
+<img width="4284" height="5712" alt="IMG_4041" src="https://github.com/user-attachments/assets/f6cb1ffc-3fbf-463c-ba28-49d57ae72315" />
+<img width="4284" height="5712" alt="IMG_4040" src="https://github.com/user-attachments/assets/b7a1ae21-5cb3-476c-800f-8a63ab9dc85a" />
+<img width="4284" height="5712" alt="IMG_4039" src="https://github.com/user-attachments/assets/dc419587-a8bc-449f-a3e8-3ee2b9037ed6" />
+
 
 
 
