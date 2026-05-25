@@ -71,9 +71,8 @@ Andrew: A structured practice plan and a larger library of exercises. Right now,
 
 
 # [E. Stage 4 - Functional Prototype and Evaluation](stage4_functional_prototype/e_stage_4_functional_prototype_and_evaluation.md)
->	Weeks 9, 10, and 11. During this stage, and incorporating the feedback from the evaluation performed in stage D, a functional prototype is developed and evaluated.
 
-
+<img width="874" height="634" alt="figma" src="https://github.com/user-attachments/assets/8972c76b-782f-4f50-9129-0d7174fd83a2" />
 
 
 # [F. Stage 5 - Discussion and Solution Refinement](stage5_discussion_and_refinement/f_stage_5_reporting_discussion_refinement.md)
