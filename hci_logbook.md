@@ -6,7 +6,7 @@ Work carried out by:
 -->
 # *HCI Project Logbook*
 
-**Title of the project**: [Title goes here]
+**Title of the project**: Drum Practice
 **Team:**
 - Student 1: Piotr Kryska 
 - Student 2; Mikolaj Tokarczuk
@@ -14,9 +14,10 @@ Work carried out by:
 
 ---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
- > 	This stage corresponds to week 1. Describe the overall rationale that leads to choosing the project ideaeaea
-
-<!-- For this stage you will need to read this:-->
+Traditional percussion routines suffer from severe task fragmentation:
+**Decoupled Physical Tools:** Drummers manually handle metronomes, layout notation binders, and notebooks.
+**High Onboarding Friction:** Significant time is lost configuring tempo boundaries, finding exercise profiles, and tracking metrics manually instead of actually improving your skills.
+**Scattered Tracking:** Sessions are written on loose paper sheets or loaded into detached Excel sheets, hiding historical progress trends, which hides improvement rates.
 
 
 # [B. Stage 1 - Context Definition](stage1_context/b_stage_1_context_definition.md)
@@ -77,6 +78,10 @@ Andrew: A structured practice plan and a larger library of exercises. Right now,
 
 # [F. Stage 5 - Discussion and Solution Refinement](stage5_discussion_and_refinement/f_stage_5_reporting_discussion_refinement.md)
 <img width="397" height="469" alt="fixes" src="https://github.com/user-attachments/assets/286bda07-1569-4ed5-88a6-5f70d8f445ae" />
+
+
+
+https://github.com/user-attachments/assets/fa2f450e-1c4a-4bcb-98dd-ef009e9247ab
 
 
 
