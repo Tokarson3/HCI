@@ -19,7 +19,6 @@ Traditional percussion routines suffer from severe task fragmentation:
 * **High Onboarding Friction:** Significant time is lost configuring tempo boundaries, finding exercise profiles, and tracking metrics manually instead of actually improving your skills.
 * **Scattered Tracking:** Sessions are written on loose paper sheets or loaded into detached Excel sheets, hiding historical progress trends, which hides improvement rates.
 
-* ​
 
 **Who Has This Problem​**
 * Amateur drummers​
