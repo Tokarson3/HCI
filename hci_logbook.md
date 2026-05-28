@@ -76,7 +76,8 @@ Andrew: A structured practice plan and a larger library of exercises. Right now,
 
 
 # [F. Stage 5 - Discussion and Solution Refinement](stage5_discussion_and_refinement/f_stage_5_reporting_discussion_refinement.md)
->	Week 12. Stage 5 concerns gathering all the data from the evaluation, discuss the findings, perform some refinement to the functional prototype and, if needed, additional evaluation.
+<img width="397" height="469" alt="fixes" src="https://github.com/user-attachments/assets/286bda07-1569-4ed5-88a6-5f70d8f445ae" />
+
 
 
 
