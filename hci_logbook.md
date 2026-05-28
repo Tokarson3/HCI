@@ -15,9 +15,9 @@ Work carried out by:
 ---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
 Traditional percussion routines suffer from severe task fragmentation:
-**Decoupled Physical Tools:** Drummers manually handle metronomes, layout notation binders, and notebooks.
-**High Onboarding Friction:** Significant time is lost configuring tempo boundaries, finding exercise profiles, and tracking metrics manually instead of actually improving your skills.
-**Scattered Tracking:** Sessions are written on loose paper sheets or loaded into detached Excel sheets, hiding historical progress trends, which hides improvement rates.
+* **Decoupled Physical Tools:** Drummers manually handle metronomes, layout notation binders, and notebooks.
+* **High Onboarding Friction:** Significant time is lost configuring tempo boundaries, finding exercise profiles, and tracking metrics manually instead of actually improving your skills.
+* **Scattered Tracking:** Sessions are written on loose paper sheets or loaded into detached Excel sheets, hiding historical progress trends, which hides improvement rates.
 
 
 # [B. Stage 1 - Context Definition](stage1_context/b_stage_1_context_definition.md)
